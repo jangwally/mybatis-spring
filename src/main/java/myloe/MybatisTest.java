@@ -30,5 +30,6 @@ public class MybatisTest {
         Student student = studentService.selectByPrimaryKey(1);
         System.out.println(11);
         System.out.println("test");
+        System.out.println("6666");
     }
 }
