@@ -29,6 +29,6 @@ public class MybatisTest {
     public void test1(){
         Student student = studentService.selectByPrimaryKey(1);
         System.out.println(11);
-
+        System.out.println("test");
     }
 }
