@@ -31,5 +31,6 @@ public class MybatisTest {
         System.out.println(11);
         System.out.println("test");
         System.out.println("6666");
+         System.out.println("898989");
     }
 }
