@@ -8,8 +8,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import java.util.List;
-
 /**
  * @program: mybatis-spring
  * @description:
@@ -31,5 +29,6 @@ public class MybatisTest {
         System.out.println(11);
         System.out.println("test");
         System.out.println("6666");
+        System.out.println(777);
     }
 }
